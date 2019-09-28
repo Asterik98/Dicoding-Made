@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Katalog Film</string>
+    <string name="title_home">Film</string>
+    <string name="title_dashboard">Acara TV</string>
+    <string name="choose">Kamu Memilih </string>
+    <string name="Score_">Skor: </string>
+    <string name="Overview">Deskripsi: </string>
+    <string name="attendance">Penonton: </string>
+    <string name="change_language_settings">Ganti Pengaturan Bahasa</string>
+    <string name="search">Cari</string>
+    <string name="remainder">Set Pengingat</string>
+    <string name="title_favourite">Favorit</string>
+</resources>

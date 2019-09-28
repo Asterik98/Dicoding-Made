@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Movie Catalog</string>
+    <string name="title_home">Movie</string>
+    <string name="title_dashboard">TvShow</string>
+    <string name="title_favourite">Favourite</string>
+    <string name="choose">You Choose </string>
+    <string name="Score_">Score: </string>
+    <string name="Overview">Overview: </string>
+    <string name="attendance">Attendance: </string>
+    <string name="change_language_settings">Change Language Settings</string>
+    <string name="search">Search</string>
+    <string name="remainder">Set Remainder</string>
+</resources>
